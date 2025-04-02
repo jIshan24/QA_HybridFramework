@@ -1,0 +1,39 @@
+14:59:29. 792 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+14:59:29. 931 [main] INFO  org.testng.internal.Utils -[Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+14:59:29. 940 [main] INFO  testCases.TC003_LoginTestDDT -Logger initialized successfully.
+14:59:37. 961 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+14:59:38. 000 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+14:59:38. 548 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+14:59:38. 655 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+14:59:39. 661 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+14:59:40. 455 [main] INFO  testCases.TC003_LoginTestDDT -*--Finished TC003_LoginDDTTest--*
+14:59:40. 474 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+14:59:40. 476 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+14:59:40. 986 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+14:59:41. 111 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+14:59:41. 670 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+14:59:51. 742 [main] INFO  testCases.TC003_LoginTestDDT -*--Finished TC003_LoginDDTTest--*
+14:59:51. 745 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+14:59:51. 746 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+14:59:52. 261 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+14:59:52. 399 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+14:59:52. 979 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+15:00:03. 030 [main] INFO  testCases.TC003_LoginTestDDT -*--Finished TC003_LoginDDTTest--*
+15:00:03. 031 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+15:00:03. 032 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+15:00:04. 441 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+15:00:04. 598 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+15:00:06. 336 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+15:00:16. 389 [main] INFO  testCases.TC003_LoginTestDDT -*--Finished TC003_LoginDDTTest--*
+15:00:16. 391 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+15:00:16. 391 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+15:00:17. 456 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+15:00:17. 611 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+15:00:18. 796 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+15:00:19. 638 [main] INFO  testCases.TC003_LoginTestDDT -*--Finished TC003_LoginDDTTest--*
+15:00:20. 970 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.jq.Main@6dca31eb: 54 ms
+15:00:20. 971 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.FailedReporter@4a058df8: 1 ms
+15:00:20. 979 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.XMLReporter@4e375bba: 8 ms
+15:00:20. 986 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.EmailableReporter2@285005b8: 6 ms
+15:00:20. 991 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@56826a75: 4 ms
+15:00:20. 991 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@49cd946c: 0 ms

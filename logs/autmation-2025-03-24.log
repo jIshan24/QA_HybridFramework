@@ -1,0 +1,50 @@
+01:10:37. 109 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:10:37. 114 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  I:\Ishan\QA_HybridFramework\master.xml
+
+01:10:37. 120 [main] INFO  org.testng.internal.Utils -[Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+01:10:47. 427 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+01:10:47. 459 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+01:10:47. 986 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+01:10:48. 150 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+01:10:48. 218 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+01:11:00. 009 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+01:11:00. 016 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+01:11:01. 184 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+01:11:01. 329 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+01:11:02. 004 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+01:11:22. 063 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+01:11:22. 079 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+01:11:23. 109 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+01:11:23. 248 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+01:11:23. 301 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+01:11:43. 964 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+01:11:43. 964 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+01:11:45. 043 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+01:11:45. 158 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+01:11:45. 205 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+01:12:05. 909 [main] INFO  testCases.TC003_LoginTestDDT -*--Starting TC003_LoginDDTTest--*
+01:12:05. 909 [main] INFO  testCases.TC003_LoginTestDDT -*--Navigating to MyAccount & clicking on Login--*
+01:12:07. 052 [main] INFO  testCases.TC003_LoginTestDDT -*--Data getting entered into fields from Excel--*
+01:12:07. 170 [main] INFO  testCases.TC003_LoginTestDDT -*--Clicking Login--*
+01:12:08. 183 [main] INFO  testCases.TC003_LoginTestDDT -*--Checking Positive and Negative cases --*
+01:12:19. 219 [main] INFO  org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@34780cd9: 0 ms
+01:13:17. 057 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 060 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 061 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 061 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 061 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 061 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 062 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 062 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 065 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+01:13:17. 073 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+01:13:17. 074 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 074 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 074 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 075 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 075 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 075 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 076 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+01:13:17. 076 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+01:13:17. 076 [main] INFO  org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

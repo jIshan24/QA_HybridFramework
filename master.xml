@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master Suite" >
+    <listeners>
+        <listener class-name="utilities.ExtentReportUtility"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true"
+          name="I:/Ishan/QA_HybridFramework/src/test/java/testCases/TC001_AccountRegisterTest.java">
+        <parameter name="OS" value="Linux"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!--<class name="testCases.TC001_AccountRegisterTest">
+                <methods>
+                    <include name="verify_account_Register"/>
+                </methods>
+            </class>-->
+            <!--
+            <class name="testCases.TC002_LoginTest">
+                <methods>
+                    <include name="verify_login_test"/>
+                </methods>
+            </class>-->
+
+            <!--DDT Test-->
+            <class name="testCases.TC003_LoginTestDDT">
+                <methods>
+                    <include name="verify_loginDDT_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
